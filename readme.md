@@ -14,11 +14,14 @@ The target audience is:
 
 * Wants to learn how to use chatGPT to get there faster in order to reduce technical debt upfront
 
+## What's Changing, What's Not
+
 Which large language models we're using and the mechanics of how you access them (like in-browser vs. in-IDE, like RStudio) are hugely in flux, but there are going to some constants:
 
 * Good coding practices are still those which make your code more understandable, less error-prone, and easier to build on (by yourself or someone else)
 
 * Large language models can assist you to get there faster and more easily, but they require oversight at each step, so you need to know what you want your end result to look like
+
 
 ## Workshop notes: 
 
