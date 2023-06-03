@@ -5,7 +5,7 @@
 * The difference between "code that runs" and "code we can build on"
 * Why we take out technical debt: cost of learning and cost of implementation
 * Leveraging chatGPT for to reduce learning time and reduced implementation time
-* Large larguage models are in flux but good coding practices aren't
+* Large language models are in flux but good coding practices aren't
 
 ## Functions and Refactoring
 
