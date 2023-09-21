@@ -29,7 +29,7 @@ This is an interactive workshop. Please bring a laptop and do the following ahea
 
 * Have the latest version of R and RStudio installed
 * Have git installed and an account on GitHub
-* Have an account on openai.com. (It does not need to be a premium account)
+* Have access to an LLM. That could be an account on OpenAI or Anthropic, or use of a large open-source model. 
 
 
 ## Instructors:
