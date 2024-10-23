@@ -1,0 +1,52 @@
+
+---
+title: "Clean Code Principles"
+output: beamer_presentation
+header-includes:
+  - \setbeamerfont{verbatim}{size=\scriptsize}
+---
+# What is Clean Code?
+- Clean code is easy to read, understand, and modify.
+- It is written for humans first, machines second.
+- Prioritizes maintainability, clarity, and simplicity.
+
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand" — Martin fowler
+
+# Issues with Untidy Code
+- Hard-to-read code.
+- Difficulty maintaining or extending code.
+- Bugs and hidden side effects.
+
+# Why Clean Code Matters
+- Long-term maintainability.
+- Easier collaboration with others.
+- Makes code more predictable and reliable
+- *Prevents technical debt*.
+
+# Tech Debt
+
+Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite . . . The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt.”— Ward Cunningham
+
+# Story Time
+
+# Software Has Two Values
+
+Behavior Value vs Structure Value
+
+# Refactoring
+
+Restructuring existing code without changing its external behavior.
+Improve code structure, readability, and maintainability.
+Stop tech debt before it starts
+
+# The Boy Scout Rule
+- Leave the code better than you found it.
+- Make small, incremental improvements regularly.
+
+# Don’t Be Afraid to Refactor
+- Refactoring is an ongoing process.
+- Keeps the system clean and maintainable.
+
+# Conclusion: The Clean Code Mindset
+- Clean code is about adopting a mindset of clarity, simplicity, and maintainability.
+- Aim to write code that your future self and others will thank you for.
